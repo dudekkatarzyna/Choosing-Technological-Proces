@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 630697dbb680f63c4c9a1b2a5a650f06d1d671ce Katarzyna Dudek <dudekatarzyna7@gmail.com> 1556741468 +0200	branch: Created from HEAD
+630697dbb680f63c4c9a1b2a5a650f06d1d671ce ecfaa875cbf056a5aa4a8106b28b5fe185b01853 Katarzyna Dudek <dudekatarzyna7@gmail.com> 1556741534 +0200	merge origin/feature/algorithm: Fast-forward
+ecfaa875cbf056a5aa4a8106b28b5fe185b01853 061e6654b2b0e0c16004c72d64436711abfb2ffa Katarzyna Dudek <dudekatarzyna7@gmail.com> 1556745917 +0200	commit: working data input
+061e6654b2b0e0c16004c72d64436711abfb2ffa 501469e26aa08acb3413d139e048045bb221cee9 Katarzyna Dudek <dudekatarzyna7@gmail.com> 1556748104 +0200	commit: working function call
+501469e26aa08acb3413d139e048045bb221cee9 de2a275418b32d4146dca12693001b1efed559a2 Katarzyna Dudek <dudekatarzyna7@gmail.com> 1556799871 +0200	commit: working both screens
+de2a275418b32d4146dca12693001b1efed559a2 5d4f0482f01f22bb174377dfa38fe61a192fdce1 Katarzyna Dudek <dudekatarzyna7@gmail.com> 1556800335 +0200	commit: added todos
+5d4f0482f01f22bb174377dfa38fe61a192fdce1 df0a6609f66d028daba23ffef21c485daeda9dec Katarzyna Dudek <dudekatarzyna7@gmail.com> 1556871706 +0200	commit: working, without back button
+df0a6609f66d028daba23ffef21c485daeda9dec 12117456da7d63c28252539be10f3c59c770e0ee Katarzyna Dudek <dudekatarzyna7@gmail.com> 1556872982 +0200	commit: reformated
+12117456da7d63c28252539be10f3c59c770e0ee a3172e62860ed4a7bac7bc55bc86c3b51481bd10 Katarzyna Dudek <dudekatarzyna7@gmail.com> 1556899953 +0200	commit: added static
+a3172e62860ed4a7bac7bc55bc86c3b51481bd10 ed0fa9005d1d4af29a061ef55a7a29b48a309185 Katarzyna Dudek <dudekatarzyna7@gmail.com> 1557087884 +0200	pull --progress --no-stat -v --progress origin feature/algorithm gui: Merge made by the 'recursive' strategy.
+ed0fa9005d1d4af29a061ef55a7a29b48a309185 e758c6384d1b38bc6faf9d1576384ffe19a12353 Katarzyna Dudek <dudekatarzyna7@gmail.com> 1557167031 +0200	commit: multiple lengths
+e758c6384d1b38bc6faf9d1576384ffe19a12353 71b8a20b70d044b95ee65e1231bb94cf6bf769be Katarzyna Dudek <dudekatarzyna7@gmail.com> 1557167785 +0200	commit: multiple lengths
+71b8a20b70d044b95ee65e1231bb94cf6bf769be 6d4d83d85bfcf393dcee826ea8ebdbe2cd9c51d1 Katarzyna Dudek <dudekatarzyna7@gmail.com> 1557171109 +0200	commit: added colors
+6d4d83d85bfcf393dcee826ea8ebdbe2cd9c51d1 71e04c2e35527cec71f4747e670bef87a7b8011a Katarzyna Dudek <dudekatarzyna7@gmail.com> 1557215955 +0200	commit (merge): Merge remote-tracking branch 'remotes/origin/feature/algorithm' into gui
+71e04c2e35527cec71f4747e670bef87a7b8011a cfc2d2a0f2d155ee9d52be04195b02fe532f7e35 Katarzyna Dudek <dudekatarzyna7@gmail.com> 1557218253 +0200	commit: fivex colors
+cfc2d2a0f2d155ee9d52be04195b02fe532f7e35 f1a791ecfb0de98dcacbdcf5453b803fe7ee5256 Katarzyna Dudek <dudekatarzyna7@gmail.com> 1557343150 +0200	commit: fixed bug
+f1a791ecfb0de98dcacbdcf5453b803fe7ee5256 a39e5b94f8af2de786bf71e1967b8f277fef812b Katarzyna Dudek <dudekatarzyna7@gmail.com> 1557404600 +0200	commit: fixed constraint
